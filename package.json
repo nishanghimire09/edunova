@@ -1,0 +1,1 @@
+{"name":"edunova","private":true,"packageManager":"pnpm@10","workspaces":["apps/*","packages/*"],"scripts":{"dev":"turbo dev","build":"turbo build"},"devDependencies":{"turbo":"latest","typescript":"latest"}}
